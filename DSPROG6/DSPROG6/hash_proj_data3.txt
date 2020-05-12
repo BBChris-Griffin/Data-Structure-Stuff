@@ -1,0 +1,26 @@
+                                   Employee Report
+                                   ***************
+
+
+                                                            Current              New               Years
+Last                Acct                Date of             Annual              Annual              of                  
+Name                Number              Hire                Salary              Salary              Service             
+
+Smith               0052                 Feb. 5 ,2000        35909.89            38962.23            17
+Tucker              0103*                Sep. 1 ,1986        23456.90            26398.40            31
+Usless              0256*                Feb. 29,2000        23903.90            25935.73            17
+Yancy               0054                 Jan. 13,1988        65490.90            72039.98            29
+Reed                0119                 Jan. 5 ,1987        50100.00            56382.54            30
+Kester              0017*                Aug. 1 ,2001        24590.90            26681.13            16
+Smith               0234                 Nov. 5 ,1997        47000.00            51700.00            20
+Margo               0795*                Nov. 8 ,1998        45000.90            48825.98            19
+kevin               0030*                Nov. 8 ,1997        19008.89            20909.78            20
+oscal               0846*                Nov. 9 ,1996        34505.09            37955.60            21
+Zackery             5193                 Jan. 19,1997        34343.02            37777.32            20
+Jack                5195                 Sep. 30,2006        43909.09            47641.36            11
+Peace               5198                 Oct. 1 ,1998        34534.92            37470.39            19
+Griff               0100                 Mar. 12,1967        95090.90            107015.30           50
+
+Total Records Processed 14
+
+*indicates the record resulted in a collision when inserted into the hash table

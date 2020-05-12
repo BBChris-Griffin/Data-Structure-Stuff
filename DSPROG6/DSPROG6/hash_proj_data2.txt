@@ -1,0 +1,16 @@
+Kevin Thad    1343 11 31 1989 54090.90 c 
+Smith Johnson 0234 11 05 1997 47000.00 a
+Reed  Harry  0119 01 05 1987  50100.00 b
+Smith Terry  052  02 05 2000  35909.89 c
+Tucker Don   0103 09 01 1986  23456.90 z
+Kester Mark  0017 08 01 2001  24590.90 c
+Usless Cane  0256 02 29 2000  23903.90 v
+Griff  Kelly 0100 03 12 1967  95090.90 g
+Jones Greg   1001 04 15 1f33  34903.90 b
+Yancy Tom    0054 01 13 1988  65490.90 b
+Klide Megan  0990 00 12 1995  13245.90 c
+Margo John   0795 11 08 1998  45000.90 c
+kevin clark  0030 11 08 1997  19008.89 c
+oscal keen   0846 11 09 1996  34505.09 d
+Uless Peek   0048 04 31 1989  23000.90 K
+

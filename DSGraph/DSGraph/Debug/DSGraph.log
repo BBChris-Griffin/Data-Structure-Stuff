@@ -1,0 +1,13 @@
+﻿  DSGraph.cpp
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(153): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(170): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\chrisgriffin\onedrive\visual studio stuff\project\dsgraph\dsgraph\utility.h(245): warning C4018: '<': signed/unsigned mismatch
+  DSGraph.vcxproj -> C:\Users\ChrisGriffin\OneDrive\Visual Studio Stuff\Project\DSGraph\Debug\DSGraph.exe
+  DSGraph.vcxproj -> C:\Users\ChrisGriffin\OneDrive\Visual Studio Stuff\Project\DSGraph\Debug\DSGraph.pdb (Partial PDB)
